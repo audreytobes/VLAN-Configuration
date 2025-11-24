@@ -8,8 +8,8 @@ Build and configure a simple VLAN network.
 
 - VLAN
 - Router on a Stick
-- Switch 
-- Command-line interface
+- Switch CLI
+- Router CLI
 
 ### Tools Used
 
