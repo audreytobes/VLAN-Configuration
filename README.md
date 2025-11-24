@@ -24,7 +24,7 @@ Network Topology:
   <li>Assign switchport access for each PC/Laptop</li>
   <li>Assign switchport trunk for the router</li>
   <li>Assign static IP addresses to PCs/Laptops</li>
-  <li>Test connection within each VLAN (Ping from PC1 to Laptop1 and PC3 to Laptop2</li>
+  <li>Test connection within each VLAN (Ping from PC1 to Laptop1 and PC3 to Laptop2)</li>
   <li>Configure inter-VLAN routing (router on a stick)</li>
   <li>Test inter-VLAN connection (Ping from PC1 to PC3)</li>
 </ol>
